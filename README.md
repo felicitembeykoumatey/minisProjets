@@ -1,0 +1,2 @@
+# minisProjets
+Autodidacte langage Python
